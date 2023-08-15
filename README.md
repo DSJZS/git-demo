@@ -1,2 +1,3 @@
 # git-demo
-just a newbie
+just a newbie  
+this is a repository for testing
